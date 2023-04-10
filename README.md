@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Estoy trabajando en [Burger Queen](https://github.com/CarmenArayaRodriguez/DEV003-burger-queen-api-client)- 🌱 Estoy aprendiendo <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+- 🔭 Estoy trabajando en [Burger Queen](https://github.com/CarmenArayaRodriguez/DEV003-burger-queen-api-client)
+- 🌱 Estoy aprendiendo <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/carmenarayarodr%C3%ADguez/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carmenarayarodríguez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carmenarayarodr%C3%ADguez/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carmenarayarodríguez" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
