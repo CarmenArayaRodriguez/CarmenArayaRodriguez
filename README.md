@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, i'm Carmen Araya Rodríguez</h1>
-- 🌱 I’m currently learning **Javascript, TypeScript, Angular**
+
+- 🌱 I’m currently learning Javascript, TypeScript, Angular
 
 - 📫 How to reach me **carmenarayarodriguez@gmail.com**
 
