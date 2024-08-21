@@ -36,7 +36,9 @@ Mi trayectoria combina educación y tecnología, enfocándome en desarrollar sol
 </a>
 </p>
 
+
 <h4 align="left">Lenguajes y herramientas</h4>
+
                 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -54,4 +56,5 @@ Mi trayectoria combina educación y tecnología, enfocándome en desarrollar sol
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="38" height="38"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="38" height="38"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="38" height="38"/> </a>
