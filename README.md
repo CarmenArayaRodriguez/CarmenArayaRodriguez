@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h4>Sobre mí</h4>
 <!-- <p>Desde niña tuve interés por aprender, sin embargo, sentía que la escuela era muy rígida. Esa fue mi motivación para estudiar pedagogía: apoyar el aprendizaje de niñas y niños considerando sus propios ritmos y sus intereses. Cuando mi propio trabajo se volvió poco flexible, busqué alternativas que me permitieran seguir aprendiendo en ambientes que me dieran la oportunidad de explorar diferentes caminos para lograr mis objetivos. En ese tránsito pasé por la edición y corrección de textos y después llegué a la programación, que representa un desafío de aprendizaje y me hace sentir libre de descubrir y poner en práctica diferentes formas de hacer las cosas. Tener esa posibilidad me hace sentir plena.</p> -->
 
-Soy Carmen Araya, una desarrolladora full stack de Chile. Me especializo en Java, TypeScript, y NestJS. Mi pasión por la tecnología me llevó desde la educación hacia el emocionante mundo del desarrollo de software.
+Soy Carmen Araya Rodríguez, una desarrolladora full stack de Chile. Me especializo en Java, TypeScript, y NestJS. Mi pasión por la tecnología me llevó desde la educación hacia el emocionante mundo del desarrollo de software.
 
 Actualmente me dedico al desarrollo de aplicaciones full stack, utilizando tecnologías como Java, TypeScript y NestJS para construir aplicaciones robustas y eficientes.
 
