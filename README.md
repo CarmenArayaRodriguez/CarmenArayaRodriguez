@@ -25,7 +25,7 @@ Soy profesora de formación, con dos años de estudio intensivo en programación
 
 En los últimos dos años, he trabajado en múltiples proyectos utilizando Java, TypeScript y NestJS, donde he aplicado mis habilidades de desarrollo y análisis para construir y optimizar aplicaciones web.
 
-Mi trayectoria combina educación y tecnología, enfocándome en desarrollar soluciones eficaces con un enfoque pedagógico. Estoy siempre abierta a explorar nuevas oportunidades y colaboraciones que enriquezcan tanto mi desarrollo profesional como el de los proyectos en los que participo.
+Mi trayectoria combina educación y tecnología, enfocándome en desarrollar soluciones eficaces con un enfoque pedagógico e inclusivo. Estoy siempre abierta a explorar nuevas oportunidades y colaboraciones que enriquezcan tanto mi desarrollo profesional como el de los proyectos en los que participo.
 
 <!-- - 🌱 Estoy aprendiendo <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="18" height="18"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="22" height="22"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> -->
 
