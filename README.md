@@ -25,7 +25,7 @@ Soy profesora de formación, con dos años de estudio intensivo en programación
 
 En los últimos dos años, he trabajado en múltiples proyectos utilizando Java, TypeScript y NestJS, donde he aplicado mis habilidades de desarrollo y análisis para construir y optimizar aplicaciones web.
 
-Mi trayectoria combina educación y tecnología, enfocándome en desarrollar soluciones eficaces con un enfoque pedagógico. Estoy siempre abierta a explorar nuevas oportunidades y colaboraciones que permitan crecimiento mutuo en el ámbito tecnológico.
+Mi trayectoria combina educación y tecnología, enfocándome en desarrollar soluciones eficaces con un enfoque pedagógico. Estoy siempre abierta a explorar nuevas oportunidades y colaboraciones que enriquezcan tanto mi desarrollo profesional como el de los proyectos en los que participo.
 
 <!-- - 🌱 Estoy aprendiendo <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="18" height="18"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="22" height="22"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> -->
 
@@ -41,11 +41,12 @@ Mi trayectoria combina educación y tecnología, enfocándome en desarrollar sol
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1524/PNG/96/markdown_106519.png" alt="" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/> </a>
+<a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="38" height="38"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="38" height="38"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="38" height="38"/> </a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.dcc.uchile.cl/media/assets/npm.svg" alt="" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.dcc.uchile.cl/media/assets/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
