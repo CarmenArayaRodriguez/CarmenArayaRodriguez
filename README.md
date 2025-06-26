@@ -13,10 +13,5 @@
 <p>Puedes encontrarme en <a href="https://www.linkedin.com/in/carmenarayarodriguez" target="_blank">LinkedIn</a>.</p>
 
 <h4>Lenguajes y herramientas</h4>
-<ul>
-  <li><strong>Backend:</strong> NestJS, Node.js, TypeScript</li>
-  <li><strong>Frontend:</strong> Angular</li>
-  <li><strong>Pruebas:</strong> Jest</li>
-  <li><strong>Control de versiones:</strong> Git</li>
-</ul>
+<p>NestJS · Node.js · TypeScript · Angular · Jest · Git</p>
 
