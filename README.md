@@ -12,8 +12,5 @@
 <h4>Lenguajes y herramientas</h4>
 <p>NestJS · Node.js · TypeScript · Angular · Jest · Git</p>
 
-<h4>Conecta conmigo</h4>
-<p>Puedes encontrarme en <a href="https://www.linkedin.com/in/carmenarayarodriguez" target="_blank">LinkedIn</a>.</p>
-
 
 
