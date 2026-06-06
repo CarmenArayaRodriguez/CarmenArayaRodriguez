@@ -1,16 +1,18 @@
-<h4>Sobre mí</h4>
-<p>Soy desarrolladora full stack y actualmente participo en el desarrollo de aplicaciones web utilizando NestJS, Node.js, TypeScript y Angular. Trabajo en tareas de backend, frontend, pruebas automatizadas y mejora de documentación técnica. Me involucro en todo el ciclo de desarrollo y colaboro activamente en entornos ágiles.</p>
+### Desarrolladora de Software | Sistemas de Información en Salud
 
-<p>Me formé en Laboratoria y en la Universidad de Chile, y actualmente estudio la carrera de Técnico Universitario en Programación Computacional en la Universidad Mayor. Vengo del mundo de la educación y la edición, experiencia que me aportó habilidades valiosas como la atención al detalle, la organización y la comunicación clara.</p>
+Desarrollo, mantenimiento y evolución de ecosistemas de software en el sector HealthTech.
 
-<p>Me interesa escribir código limpio y mantenible, comprender cómo funcionan las herramientas que uso y seguir aprendiendo cada día. Disfruto trabajar en equipo, participar en procesos de mejora continua y resolver problemas de forma práctica y colaborativa.</p>
+**Stack Tecnológico Base**
+* **Lenguajes:** TypeScript, JavaScript.
+* **Backend:** Node.js, NestJS.
+* **Frontend:** Angular.
+* **Bases de Datos:** PostgreSQL, MySQL.
+* **Testing y QA:** Jest.
+* **Infraestructura:** Git.
 
-<p>En este momento estoy profundizando en temas como pruebas con Jest, bases de datos SQL y buenas prácticas en desarrollo backend, con especial foco en seguridad, estructura y claridad.</p>
-
-<p>Siempre abierta a colaborar en proyectos vinculados a la tecnología con propósito social, educación y desarrollo de herramientas que mejoren la vida de las personas.</p>
-
-<h4>Lenguajes y herramientas</h4>
-<p>NestJS · Node.js · TypeScript · Angular · Jest · Git</p>
-
+**Arquitectura y Trabajo Diario**
+* Desarrollo e implementación de nuevas funcionalidades en el frontend y backend.
+* Mantenimiento continuo y refactorización sobre bases de código existentes.
+* Ejecución de pruebas de software y redacción de documentación técnica como estándar estricto de validación por cada entrega.
 
 
