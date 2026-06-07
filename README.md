@@ -13,6 +13,6 @@ Desarrollo, mantenimiento y evolución de ecosistemas de software en el sector H
 **Arquitectura y Trabajo Diario**
 * Desarrollo e implementación de nuevas funcionalidades en el frontend y backend.
 * Mantenimiento continuo y refactorización sobre bases de código existentes.
-* Ejecución de pruebas de software y redacción de documentación técnica como estándar estricto de validación por cada entrega.
+* Ejecución de pruebas de software y redacción de documentación técnica como estándar de validación por cada entrega.
 
 
